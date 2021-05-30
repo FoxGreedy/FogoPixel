@@ -6,4 +6,4 @@
 
 # Doom Fire Algorithm
 
-Algoritmo que replica a criaçào das chamas no jogo Doom de 1993
+Algoritmo que replica a criação das chamas no jogo Doom de 1993
