@@ -7,3 +7,7 @@
 # Doom Fire Algorithm
 
 Algoritmo que replica a criação das chamas no jogo Doom de 1993
+
+<hr />
+
+<p  align="right">Made with ❤️ by <a href="https://github.com/matg0mes">matg0mes</a>.</p>
